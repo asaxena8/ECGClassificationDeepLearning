@@ -51,7 +51,7 @@ Simple, distance-based classifier used to benchmark deep learning models.
 ## 📚 References
 
 1. Hemaxi, N., et al. (2024). *Deep Learning for ECG Classification: A Comparative Study of 1D and 2D Representations...* [DOI](https://doi.org/10.1016/j.bspc.2023.105196)
-2. Shaik, S., et al. (2023). *Classification of ECG Signal Using FFT-Based Improved AlexNet Classifier* [DOI]([https://doi.org/10.1016/j.jksuci.2023.101367](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274225))
+2. Shaik, S., et al. (2023). *Classification of ECG Signal Using FFT-Based Improved AlexNet Classifier* [DOI](https://doi.org/10.1016/j.jksuci.2023.101367](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274225)
 3. Pałczyński, K., et al. (2022). *Few-Shot Learning for ECG Classification* [DOI](https://doi.org/10.3390/s22030904)
 4. UCI ML Repository: [ECG5000 Dataset](https://archive.ics.uci.edu/ml/datasets/ECG5000)
 
