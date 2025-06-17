@@ -60,7 +60,7 @@ Simple, distance-based classifier used to benchmark deep learning models.
 ## 🙋 Author
 
 **Akriti Saxena**  
-M.S. in Information Technology  
+M.S. in Computer Science
 University of North Carolina at Charlotte  
 
 ---
